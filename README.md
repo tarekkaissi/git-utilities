@@ -8,7 +8,7 @@ changed by tk
 - commit: snapshot with msg local
 - tag: version and msg local
 - push branch to remote
-- delete branch from local
+- git branch -d: delete branch from local
 - 
 
 

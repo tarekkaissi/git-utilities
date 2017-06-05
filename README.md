@@ -1,4 +1,18 @@
 changed by tk 
+
+- Fork: import repo from someone elses into my own
+- Clone: brings down to local
+- checkout branch: create a branch
+- make changes
+- Add: add to staging area lcoal
+- commit: snapshot with msg local
+- tag: version and msg local
+- push branch to remote
+- delete branch from local
+- 
+
+
+
 This GitHub repository contains files used by and explained in Wilson Mar's
 Git and GitHub course.
 
